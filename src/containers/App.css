@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+ 
+}
+
+/* .red{
+  color:red;
+}
+
+.grey {
+  color: grey
+}
+.bold{
+  font-weight:bold;
+} */
+
+@media(min-width:600px) {
+  .App {
+      width: 550px;
+  }
+}

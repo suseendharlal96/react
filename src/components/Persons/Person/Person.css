@@ -1,0 +1,15 @@
+.Person {
+    margin: 16px auto;
+    padding: 15px;
+    border: 2px solid green;
+    width: 70%;
+    box-shadow: 2px 3px 5px 1px greenyellow;
+    cursor: pointer;
+    color: red;
+}
+
+@media(min-width:500px) {
+    .Person {
+        width: 450px;
+    }
+}
